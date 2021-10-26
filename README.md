@@ -43,6 +43,14 @@ python3 -m venv .venv
 . .venv/bin/activate
 ```
 
+
+```
+pip install --upgrade pip
+pip install mypy
+pip install flake8
+```
+
+
 ### Deactivate Enviroment Virtual
 
 ```shell
