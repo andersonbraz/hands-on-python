@@ -86,5 +86,5 @@ python -m unittest discover -v
 ## References
 
 [YOUTUBE - Configurando o VS Code para Python](https://www.youtube.com/watch?v=ZQ60SJDACuc)
-[Diferença entre MyPy e Flake8](https://cursos.alura.com.br/forum/topico-diferenca-entre-mypy-e-flake8-116368)
 
+[Diferença entre MyPy e Flake8](https://cursos.alura.com.br/forum/topico-diferenca-entre-mypy-e-flake8-116368)
