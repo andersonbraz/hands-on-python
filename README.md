@@ -89,6 +89,8 @@ python -m unittest discover -v
 
 [Diferença entre MyPy e Flake8](https://cursos.alura.com.br/forum/topico-diferenca-entre-mypy-e-flake8-116368)
 
+[Project: mypy](https://pypi.org/project/mypy/)
+
 [Project:  flake8](https://pypi.org/project/flake8/)
 
 [Project: autopep8](https://pypi.org/project/autopep8/)
