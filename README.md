@@ -94,3 +94,5 @@ python -m unittest discover -v
 [Project:  flake8](https://pypi.org/project/flake8/)
 
 [Project: autopep8](https://pypi.org/project/autopep8/)
+
+[black VS autopep8](https://www.libhunt.com/compare-black-vs-autopep8)
